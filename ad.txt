@@ -1,6 +1,7 @@
 [AdblockPlus]
-! Version:2019-10-18 20:06:12
 ! Title: myown
+! Version: 0.1
+! TimeUpdated: 2020-03-12
 
 !---thz
 thz8.cc###hd,#toptb,#toptb,#f_pst,#ft,#pgt,.pls,.plm.plc,.plm.plc,.portal_block_summary,.modact,.plc > .pi,.mn > div:nth-of-type(1),#tbody > tr:nth-of-type(4),#postlist > table:nth-of-type(1),#pid14441273 > tbody > tr:nth-of-type(1) > .plc > .pi
