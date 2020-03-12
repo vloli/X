@@ -1,0 +1,57 @@
+[AdblockPlus]
+! Version:2019-10-18 20:06:12
+! Title: myown
+
+!---thz
+thz8.cc###hd,#toptb,#toptb,#f_pst,#ft,#pgt,.pls,.plm.plc,.plm.plc,.portal_block_summary,.modact,.plc > .pi,.mn > div:nth-of-type(1),#tbody > tr:nth-of-type(4),#postlist > table:nth-of-type(1),#pid14441273 > tbody > tr:nth-of-type(1) > .plc > .pi
+
+!---sehuatang
+www.sehuatang.org,www.98ddt.xyz###pgt,#hd,#toptb,#ft,#f_pst,.pi, .pls,.show-text2,.cl.mbm.mtm.pgs,.plm.plc,.modact,#tr:nth-of-type(4),div.cl.show-text:nth-of-type(1),div.cl.show-text:nth-of-type(2),div.cl.show-text:nth-of-type(3),div.cl.show-text:nth-of-type(4),div.cl.show-text:nth-of-type(5),div.cl.show-text:nth-of-type(6),div.cl.show-text:nth-of-type(7),div.cl.show-text:nth-of-type(8),div.cl.show-text:nth-of-type(9)
+
+
+!---bcy
+bcy.net##.banner-inner.dm-carousel,.pb15.ph20.pt20.posr > .mb15,.pb15.ph20.pt20.posr > .newTimelineTag.mb5.tags,.item-notification.nav-account-item,.app-download,.clearfix.share-download,.banner,#l-footer,#leftNav,.mt10.pb10.p20._box,.top-bordered.bgFa.l-clearfix.pb10.pt15,.mb10.mt10.l-clearfix,.l-clearfix.dib.mt35,.curp.js-share.newTimelineShare.l-left,.js-noticeList.noticeList,.js-item-content.post > .center,.bangumi-header,.declaration
+bcy.net toutiao.com * block 
+bcy.net bdstatic.com * block    
+bcy.net baidu.com * block   
+
+!---gtloli.app
+www.feimaoyun.com##.unsign-nav-box,.down-desc-box,.user-sign-box,.down-btm-box,.wtp-list.svip-list,.ppt-box,.res-nav,.res-title
+www.gtloli.app##.cft,#f_pst,.boardnav > .cbm_box.bm
+
+!---SOUL+
+www.south-plus.net##DIV[class="t2"],TD[class="banner"],DIV[id="toptool"],DIV[id="infobox"][class="cc"],DIV[class="footer"],DIV[class="h2"],DIV[class="gonggao"],.tpage
+
+!---jav
+www.javlibrary.com###toplogo,#video_comments,#video_icn_comment_edit,#bottommenu,#bottomcopyright,#bottombanner22,#bottombanner11,#sder43f,.socialmedia,#video_reviews,#sidebanner11
+
+!---sexinsex
+sexinsex.net,sis001.com###ad_text,#header,#menu2,#rules,#footercontainer,.maintable,.legend,ins,.postactions,.postinfo,img[src="images/copy.gif"],h1,.headactions,.threadflow,.viewthread.mainbox:nth-of-type(3),.viewthread.mainbox:nth-of-type(4),.viewthread.mainbox:nth-of-type(5),.viewthread.mainbox:nth-of-type(6),.viewthread.mainbox:nth-of-type(7),.viewthread.mainbox:nth-of-type(8),.viewthread.mainbox:nth-of-type(9),.viewthread.mainbox:nth-of-type(10),.viewthread.mainbox:nth-of-type(11)
+
+!---Mobile AD
+
+bbs.nga.cn###toptopics
+www.1pondo.tv##footer
+www.heyzo.com##footer
+www.heyzo.com###ecptraffic
+www.tokyo-hot.com###colorbox
+www.tokyo-hot.com###cboxOverlay
+www.tokyo-hot.com###footer
+www.flickr.com###foot
+www.inoreader.com/adv/
+zh.btdb.to##.banner
+zh.btdb.to##.footer
+lx.heikeyun.net###apkad
+lx.heikeyun.net###apkdown
+lx.heikeyun.net##.footer
+
+* snssdk.com * block    
+* cnzz.com * block
+* google-analytics.com * block
+* googletagmanager.com * block
+
+||h5.sinaimg.cn/m/emoticon^$app=com.seazon.feedme
+||venus.douyucdn.cn/venus/release^$app=air.tv.douyu.android
+||mp.weixin.qq.com/mp/advertisement^
+||mp.weixin.qq.com/mp/getappmsgad^
+* googlesyndication.com * block
