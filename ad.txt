@@ -1,7 +1,8 @@
 [AdblockPlus]
 ! Title: myown
-! Version: 0.1
-! TimeUpdated: 2020-03-12
+! Version: 0.2
+! TimeUpdated: 2020-03-14
+!https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
 
 !---thz
 thz8.cc###hd,#toptb,#toptb,#f_pst,#ft,#pgt,.pls,.plm.plc,.plm.plc,.portal_block_summary,.modact,.plc > .pi,.mn > div:nth-of-type(1),#tbody > tr:nth-of-type(4),#postlist > table:nth-of-type(1),#pid14441273 > tbody > tr:nth-of-type(1) > .plc > .pi
@@ -31,28 +32,30 @@ sexinsex.net,sis001.com###ad_text,#header,#menu2,#rules,#footercontainer,.mainta
 
 !---Mobile AD
 
+www.baidu.com###page-copyright,.se-ft-promlink
 bbs.nga.cn###toptopics
 www.1pondo.tv##footer
 www.heyzo.com##footer
 www.heyzo.com###ecptraffic
-www.tokyo-hot.com###colorbox
-www.tokyo-hot.com###cboxOverlay
-www.tokyo-hot.com###footer
 www.flickr.com###foot
-www.inoreader.com/adv/
-zh.btdb.to##.banner
-zh.btdb.to##.footer
-lx.heikeyun.net###apkad
-lx.heikeyun.net###apkdown
-lx.heikeyun.net##.footer
+||www.inoreader.com/adv/^
+
 
 * snssdk.com * block    
 * cnzz.com * block
 * google-analytics.com * block
 * googletagmanager.com * block
-
-||h5.sinaimg.cn/m/emoticon^$app=com.seazon.feedme
-||venus.douyucdn.cn/venus/release^$app=air.tv.douyu.android
 ||mp.weixin.qq.com/mp/advertisement^
 ||mp.weixin.qq.com/mp/getappmsgad^
 * googlesyndication.com * block
+
+||h5.sinaimg.cn/m/emoticon^$app=com.seazon.feedme
+||venus.douyucdn.cn/venus/release^$app=air.tv.douyu.android
+||api.weibo.cn/2/client^$app=com.sina.weibo
+||meta.yangkeduo.com/api/app^$app=com.xunmeng.pinduoduo
+||clientlog3.music.163.com^$app=com.netease.cloudmusic
+||ichannel.snssdk.com/check_version^
+||clientservices.googleapis.com^$app=com.chrome.dev
+||update.googleapis.com^$app=com.chrome.dev
+||pub.xmxdev.com/api/version^$app=com.taptap
+@@||res.imtt.qq.com/res_mtt/QBtoady^$app=com.tencent.mtt
