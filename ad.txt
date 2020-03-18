@@ -1,7 +1,7 @@
 [AdblockPlus]
 ! Title: myown
-! Version: 0.2
-! TimeUpdated: 2020-03-14
+! Version: 0.3
+! TimeUpdated: @2020-03-18
 !https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
 
 !---thz
@@ -31,31 +31,30 @@ www.javlibrary.com###toplogo,#video_comments,#video_icn_comment_edit,#bottommenu
 sexinsex.net,sis001.com###ad_text,#header,#menu2,#rules,#footercontainer,.maintable,.legend,ins,.postactions,.postinfo,img[src="images/copy.gif"],h1,.headactions,.threadflow,.viewthread.mainbox:nth-of-type(3),.viewthread.mainbox:nth-of-type(4),.viewthread.mainbox:nth-of-type(5),.viewthread.mainbox:nth-of-type(6),.viewthread.mainbox:nth-of-type(7),.viewthread.mainbox:nth-of-type(8),.viewthread.mainbox:nth-of-type(9),.viewthread.mainbox:nth-of-type(10),.viewthread.mainbox:nth-of-type(11)
 
 !---Mobile AD
-
 www.baidu.com###page-copyright,.se-ft-promlink
+m.douban.com##.subject-banner,.TalionNav-static
 bbs.nga.cn###toptopics
 www.1pondo.tv##footer
 www.heyzo.com##footer
 www.heyzo.com###ecptraffic
 www.flickr.com###foot
 ||www.inoreader.com/adv/^
-
-
-* snssdk.com * block    
-* cnzz.com * block
-* google-analytics.com * block
-* googletagmanager.com * block
 ||mp.weixin.qq.com/mp/advertisement^
 ||mp.weixin.qq.com/mp/getappmsgad^
-* googlesyndication.com * block
 
+!---APP更新
 ||h5.sinaimg.cn/m/emoticon^$app=com.seazon.feedme
 ||venus.douyucdn.cn/venus/release^$app=air.tv.douyu.android
 ||api.weibo.cn/2/client^$app=com.sina.weibo
 ||meta.yangkeduo.com/api/app^$app=com.xunmeng.pinduoduo
 ||clientlog3.music.163.com^$app=com.netease.cloudmusic
-||ichannel.snssdk.com/check_version^
 ||clientservices.googleapis.com^$app=com.chrome.dev
 ||update.googleapis.com^$app=com.chrome.dev
 ||pub.xmxdev.com/api/version^$app=com.taptap
+||ichannel.snssdk.com/check_version^
+||lf-lq.snssdk.com/check_version^$app=com.ss.android.ugc.aweme
+
+!---白名单
 @@||res.imtt.qq.com/res_mtt/QBtoady^$app=com.tencent.mtt
+@@||app.bilibili.com/x/feed^$app=com.bilibili.app.blue,important
+@@||s.click.taobao.com^
