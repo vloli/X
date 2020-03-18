@@ -32,7 +32,7 @@ sexinsex.net,sis001.com###ad_text,#header,#menu2,#rules,#footercontainer,.mainta
 
 !---Mobile AD
 www.baidu.com###page-copyright,.se-ft-promlink
-m.douban.com##.subject-banner,.TalionNav-static
+m.douban.com##.subject-banner,.TalionNav-static,.download-app
 bbs.nga.cn###toptopics
 www.1pondo.tv##footer
 www.heyzo.com##footer
