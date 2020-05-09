@@ -15,6 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
+||sehuatang.org
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
