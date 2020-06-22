@@ -43,18 +43,38 @@ www.flickr.com###foot
 ||mp.weixin.qq.com/mp/getappmsgad^
 
 !---APP更新
-||h5.sinaimg.cn/m/emoticon^$app=com.seazon.feedme
-||venus.douyucdn.cn/venus/release^$app=air.tv.douyu.android
-||api.weibo.cn/2/client^$app=com.sina.weibo
-||meta.yangkeduo.com/api/app^$app=com.xunmeng.pinduoduo
-||clientlog3.music.163.com^$app=com.netease.cloudmusic
-||clientservices.googleapis.com^$app=com.chrome.dev
-||update.googleapis.com^$app=com.chrome.dev
-||pub.xmxdev.com/api/version^$app=com.taptap
+!---taobao
+||acs.m.taobao.com/gw/mtop.client.mudp.update
+||dtmall-tel.alicdn.com/edgeComputingConfig/upload_models
+*/amdc/mobileDispatch?appkey
+
+!---抖音
 ||ichannel.snssdk.com/check_version^
 ||lf-lq.snssdk.com/check_version^$app=com.ss.android.ugc.aweme
 
+!---网易云音乐
+||clientlog3.music.163.com^$app=com.netease.cloudmusic
+
+!---Chrome dev
+||clientservices.googleapis.com^$app=com.chrome.dev
+||update.googleapis.com^$app=com.chrome.dev
+
+!---斗鱼
+||venus.douyucdn.cn/venus/release^$app=air.tv.douyu.android
+
+!---微博
+||api.weibo.cn/2/client^$app=com.sina.weibo
+
+!---拼多多
+||meta.yangkeduo.com/api/app^$app=com.xunmeng.pinduoduo
+
+!---taptap
+||pub.xmxdev.com/api/version^$app=com.taptap
+
+!---轻音乐
+||www.dayanclub.com/ajun/app^$app=com.ajun.music
+
 !---白名单
-@@||res.imtt.qq.com/res_mtt/QBtoady^$app=com.tencent.mtt
+@@||res.imtt.qq.com/res_mtt/QBtoady^$app=com.tencent.mt
 @@||app.bilibili.com/x/feed^$app=com.bilibili.app.blue,important
 @@||s.click.taobao.com^
