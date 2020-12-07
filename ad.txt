@@ -78,3 +78,4 @@ www.flickr.com###foot
 @@||res.imtt.qq.com/res_mtt/QBtoady^$app=com.tencent.mt
 @@||app.bilibili.com/x/feed^$app=com.bilibili.app.blue,important
 @@||s.click.taobao.com^
+pan.baidu.com#@#.share-link
