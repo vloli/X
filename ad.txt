@@ -27,7 +27,7 @@ www.south-plus.net##DIV[class="t2"],TD[class="banner"],DIV[id="toptool"],DIV[id=
 !---jav
 www.javlibrary.com###toplogo,#video_comments,#video_icn_comment_edit,#bottommenu,#bottomcopyright,#bottombanner22,#bottombanner11,#sder43f,.socialmedia,#video_reviews,#sidebanner11
 
-javdb.com,javdb6.com##div.search-bar-wrap > div.search-recent-keywords:last-child,#footer,nav.app-desktop-banner,nav.sub-header
+javdb.com,javdb6.com##div.search-bar-wrap > div.search-recent-keywords:last-child,#footer,nav.app-desktop-banner,nav.sub-header,.moj-content
 
 !---sexinsex
 sexinsex.net,sis001.com###ad_text,#header,#menu2,#rules,#footercontainer,.maintable,.legend,ins,.postactions,.postinfo,img[src="images/copy.gif"],h1,.headactions,.threadflow,.viewthread.mainbox:nth-of-type(3),.viewthread.mainbox:nth-of-type(4),.viewthread.mainbox:nth-of-type(5),.viewthread.mainbox:nth-of-type(6),.viewthread.mainbox:nth-of-type(7),.viewthread.mainbox:nth-of-type(8),.viewthread.mainbox:nth-of-type(9),.viewthread.mainbox:nth-of-type(10),.viewthread.mainbox:nth-of-type(11)
