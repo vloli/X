@@ -1,6 +1,6 @@
 [AdblockPlus]
-! Title: myown
-! Version: 0.3
+! Title: ivi
+! Version: 0.4
 ! TimeUpdated: @2020-12-11
 !https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
 
