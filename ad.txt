@@ -1,7 +1,7 @@
 [AdblockPlus]
 ! Title: myown
 ! Version: 0.3
-! TimeUpdated: @2020-03-18
+! TimeUpdated: @2020-12-11
 !https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
 
 !---thz
