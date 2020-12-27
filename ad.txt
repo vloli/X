@@ -8,7 +8,7 @@
 thz8.cc###hd,#toptb,#toptb,#f_pst,#ft,#pgt,.pls,.plm.plc,.plm.plc,.portal_block_summary,.modact,.plc > .pi,.mn > div:nth-of-type(1),#tbody > tr:nth-of-type(4),#postlist > table:nth-of-type(1),#pid14441273 > tbody > tr:nth-of-type(1) > .plc > .pi
 
 !---sehuatang
-www.sehuatang.org,www.98ddt.xyz###pgt,#hd,#toptb,#ft,#f_pst,.pi, .pls,.show-text2,.cl.mbm.mtm.pgs,.plm.plc,.modact,#tr:nth-of-type(4),div.cl.show-text:nth-of-type(1),div.cl.show-text:nth-of-type(2),div.cl.show-text:nth-of-type(3),div.cl.show-text:nth-of-type(4),div.cl.show-text:nth-of-type(5),div.cl.show-text:nth-of-type(6),div.cl.show-text:nth-of-type(7),div.cl.show-text:nth-of-type(8),div.cl.show-text:nth-of-type(9)
+www.sehuatang.org,www.98ddt.xyz###pgt,#hd,#toptb,#ft,#f_pst,.pi, .pls,.show-text2,.tps,.cl.mbm.mtm.pgs,.plm.plc,.modact,#tr:nth-of-type(4),div.cl.show-text:nth-of-type(1),div.cl.show-text:nth-of-type(2),div.cl.show-text:nth-of-type(3),div.cl.show-text:nth-of-type(4),div.cl.show-text:nth-of-type(5),div.cl.show-text:nth-of-type(6),div.cl.show-text:nth-of-type(7),div.cl.show-text:nth-of-type(8),div.cl.show-text:nth-of-type(9)
 
 
 !---bcy
