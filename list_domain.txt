@@ -3969,7 +3969,6 @@ raremovie.cc
 raremovie.net
 rawgit.com
 rawgithub.com
-raw.githubusercontent.com
 razyboard.com
 rcam.target.com
 rcinet.ca
@@ -5734,4 +5733,3 @@ dmc.nico
 javdb.com
 south-plus.net
 rsshub.app
-githubusercontent.com
