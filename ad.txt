@@ -1,82 +1,140 @@
-[AdblockPlus]
-! Title: ivi
-! Version: 0.4
-! TimeUpdated: @2020-12-11
-!https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
+[Adblock Plus 2.0]
+! Version: 202103170856
+! Title: CJX's EasyList Lite
+! Last modified: 2021/03/17
 
-!---thz
-thz8.cc###hd,#toptb,#toptb,#f_pst,#ft,#pgt,.pls,.plm.plc,.plm.plc,.portal_block_summary,.modact,.plc > .pi,.mn > div:nth-of-type(1),#tbody > tr:nth-of-type(4),#postlist > table:nth-of-type(1),#pid14441273 > tbody > tr:nth-of-type(1) > .plc > .pi
+##.footer
+###footer
 
-!---sehuatang
-www.sehuatang.org,www.98ddt.xyz###pgt,#hd,#toptb,#ft,#f_pst,.pi, .pls,.show-text2,.tps,.cl.mbm.mtm.pgs,.plm.plc,.modact,#tr:nth-of-type(4),div.cl.show-text:nth-of-type(1),div.cl.show-text:nth-of-type(2),div.cl.show-text:nth-of-type(3),div.cl.show-text:nth-of-type(4),div.cl.show-text:nth-of-type(5),div.cl.show-text:nth-of-type(6),div.cl.show-text:nth-of-type(7),div.cl.show-text:nth-of-type(8),div.cl.show-text:nth-of-type(9)
+sehuatang.org###ft
+sehuatang.org##.show-text2
+sehuatang.org###f_pst
+sehuatang.org###hd
+sehuatang.org###toptb
+sehuatang.org##.pls, .favatar
+sehuatang.org##.pi
+sehuatang.org##.po, .hin
+sehuatang.org##.pstatus
+sehuatang.org##.sign
+sehuatang.org###p_btn
+sehuatang.org###newspecialtmp
+sehuatang.org###newspecial
+sehuatang.org##div.bm.bml.pbn:first-child
+sehuatang.org###wp > div.h10:first-child
+sehuatang.org##.tps
+sehuatang.org###postlist > table:first-child
+sehuatang.org##.modact
+sehuatang.org##.new > .xi1
 
+bcy.net###l-footer
+bcy.net##.share-download, .clearfix
+bcy.net##.banner
+bcy.net##.declaration
+bcy.net##.dm-carousel, .banner-inner
+bcy.net##.website-approve
+bcy.net##.aside-btn
+bcy.net##.complaint-btn
+bcy.net##.app-download
 
-!---bcy
-bcy.net##.banner-inner.dm-carousel,.pb15.ph20.pt20.posr > .mb15,.pb15.ph20.pt20.posr > .newTimelineTag.mb5.tags,.item-notification.nav-account-item,.app-download,.clearfix.share-download,.banner,#l-footer,#leftNav,.mt10.pb10.p20._box,.top-bordered.bgFa.l-clearfix.pb10.pt15,.mb10.mt10.l-clearfix,.l-clearfix.dib.mt35,.curp.js-share.newTimelineShare.l-left,.js-noticeList.noticeList,.js-item-content.post > .center,.bangumi-header,.declaration
-bcy.net toutiao.com * block 
-bcy.net bdstatic.com * block    
-bcy.net baidu.com * block   
+gtloli.one###ft
+gtloli.one##.cbanner
+gtloli.one###hornbox
+gtloli.one##.po, .hin
+gtloli.one##.sign
+gtloli.one###toptb
 
-!---gtloli.app
-www.feimaoyun.com##.unsign-nav-box,.down-desc-box,.user-sign-box,.down-btm-box,.wtp-list.svip-list,.ppt-box,.res-nav,.res-title
-www.gtloli.app##.cft,#f_pst,.boardnav > .cbm_box.bm
+south-plus.net###toptool
+south-plus.net##.banner
+south-plus.net###header > div:last-child
+south-plus.net##.gonggao
+south-plus.net##.h2
 
-!---SOUL+
-www.south-plus.net##DIV[class="t2"],TD[class="banner"],DIV[id="toptool"],DIV[id="infobox"][class="cc"],DIV[class="footer"],DIV[class="h2"],DIV[class="gonggao"],.tpage
+javlibrary.com##.socialmedia
+javlibrary.com###toplogo
+javlibrary.com###video_comments
+javlibrary.com###video_reviews
+javlibrary.com##.header
+javlibrary.com###video_icn_comment_edit
+javlibrary.com##.grey
+javlibrary.com###sder43f
+javlibrary.com###bottomcopyright
+javlibrary.com##.bottombanner2
+javlibrary.com###bottommenu
+javlibrary.com##.sidebanner1
+javlibrary.com###video_title > button.smallbutton.btnCorrection:last-child
 
-!---jav
-www.javlibrary.com###toplogo,#video_comments,#video_icn_comment_edit,#bottommenu,#bottomcopyright,#bottombanner22,#bottombanner11,#sder43f,.socialmedia,#video_reviews,#sidebanner11
+javdb7.com##.app-desktop-banner
+javdb7.com##.sub-header
+javdb7.com##.search-recent-keywords
+javdb7.com##.moj-content
 
-javdb.com,javdb6.com##div.search-bar-wrap > div.search-recent-keywords:last-child,#footer,nav.app-desktop-banner,nav.sub-header,.moj-content
+sexinsex.net###header
+sexinsex.net###footercontainer
+sexinsex.net##.legend
+sexinsex.net###rules
+sexinsex.net##.maintable
+sexinsex.net###menu2
+sexinsex.net###headsearch
+sexinsex.net##.postactions
+sexinsex.net##.postratings
+sexinsex.net##.postauthor
+sexinsex.net##fieldset:last-child
+sexinsex.net##ins:nth-child(3)
+sexinsex.net##.viewthread.mainbox:nth-of-type(3)
+sexinsex.net##.viewthread.mainbox:nth-of-type(3)
+sexinsex.net##.viewthread.mainbox:nth-of-type(4)
+sexinsex.net##.viewthread.mainbox:nth-of-type(5)
+sexinsex.net##.viewthread.mainbox:nth-of-type(6)
+sexinsex.net##.viewthread.mainbox:nth-of-type(7)
+sexinsex.net##.viewthread.mainbox:nth-of-type(8)
+sexinsex.net##.viewthread.mainbox:nth-of-type(9)
+sexinsex.net##.viewthread.mainbox:nth-of-type(10)
+sexinsex.net##.viewthread.mainbox:nth-of-type(11)
+sexinsex.net##.headactions
 
-!---sexinsex
-sexinsex.net,sis001.com###ad_text,#header,#menu2,#rules,#footercontainer,.maintable,.legend,ins,.postactions,.postinfo,img[src="images/copy.gif"],h1,.headactions,.threadflow,.viewthread.mainbox:nth-of-type(3),.viewthread.mainbox:nth-of-type(4),.viewthread.mainbox:nth-of-type(5),.viewthread.mainbox:nth-of-type(6),.viewthread.mainbox:nth-of-type(7),.viewthread.mainbox:nth-of-type(8),.viewthread.mainbox:nth-of-type(9),.viewthread.mainbox:nth-of-type(10),.viewthread.mainbox:nth-of-type(11)
+bbs.saraba1st.com###ct > div.mn > div.bm.bml.pbn:first-child
+bbs.saraba1st.com###ft
+v2ex.com###Bottom
 
-!---Mobile AD
-www.baidu.com###page-copyright,.se-ft-promlink
-m.douban.com##.subject-banner,.TalionNav-static,.download-app
-bbs.nga.cn###toptopics
-www.1pondo.tv##footer
-www.heyzo.com##footer
-www.heyzo.com###ecptraffic
-www.flickr.com###foot
-||www.inoreader.com/adv/^
-||mp.weixin.qq.com/mp/advertisement^
-||mp.weixin.qq.com/mp/getappmsgad^
+feimaoyun.com##.ppt-box
+acfun.cn##.app-guide
+
+m.douban.com##.TalionNav-static
+bilibili.com##.international-footer
+bilibili.com##.mobile-link-l
+bilibili.com###right-bottom-banner
+bilibili.com###live_recommand_report
+cse.google.com###cse-footer
+deepl.com##.dl_footer__container
+deepl.com##.lmt--mobile-hidden
+deepl.com##.dl_ad_pro_container
+deepl.com##footer.dl_footer.dl_top_element--wide:nth-child(11)
+deepl.com##.dl_headerMenu__appButton
 
 !---APP更新
 !---taobao
 ||acs.m.taobao.com/gw/mtop.client.mudp.update
 ||dtmall-tel.alicdn.com/edgeComputingConfig/upload_models
-*/amdc/mobileDispatch?appkey
-
-!---抖音
-||ichannel.snssdk.com/check_version^
-||lf-lq.snssdk.com/check_version^$app=com.ss.android.ugc.aweme
-
 !---网易云音乐
 ||clientlog3.music.163.com^$app=com.netease.cloudmusic
-
 !---Chrome dev
 ||clientservices.googleapis.com^$app=com.chrome.dev
 ||update.googleapis.com^$app=com.chrome.dev
-
 !---斗鱼
 ||venus.douyucdn.cn/venus/release^$app=air.tv.douyu.android
-
 !---微博
 ||api.weibo.cn/2/client^$app=com.sina.weibo
-
 !---拼多多
 ||meta.yangkeduo.com/api/app^$app=com.xunmeng.pinduoduo
-
 !---taptap
 ||pub.xmxdev.com/api/version^$app=com.taptap
-
-!---轻音乐
-||www.dayanclub.com/ajun/app^$app=com.ajun.music
 
 !---白名单
 @@||res.imtt.qq.com/res_mtt/QBtoady^$app=com.tencent.mt
 @@||app.bilibili.com/x/feed^$app=com.bilibili.app.blue,important
 @@||s.click.taobao.com^
+52pojie.cn###forum_rules_2
+bilibili.com##.video-floor-m
+m.hupu.com##.open-app-suspension
+
+baidu.com#%#var originalUserAgent = navigator.userAgent; Object.defineProperty(navigator, 'userAgent', { get: function() { return 'Mozilla/5.0 (Linux; U; Android 11; zh-cn; Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4287.2 Mobile Safari/537.36 Quark/3.8.4.128 UCBrowser/12.0.4.985 baiduboxapp/3.2.5.10 MQQBrowser/7.2.1.2965 XiaoMi/MiuiBrowser/11.9.2 SearchCraft/2.0.0 ALiSearchApp/2.4 AliApp(TB/9.5.6) BingWeb/6.9.6 3gpp-gba'; } });
