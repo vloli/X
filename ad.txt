@@ -99,12 +99,15 @@ v2ex.com###Bottom
 
 feimaoyun.com##.ppt-box
 acfun.cn##.app-guide
+www.acfun.cn##.left-bottom-tip
 
 m.douban.com##.TalionNav-static
 bilibili.com##.international-footer
 bilibili.com##.mobile-link-l
 bilibili.com###right-bottom-banner
 bilibili.com###live_recommand_report
+www.bilibili.com##.new-channel-entry
+
 cse.google.com###cse-footer
 deepl.com##.dl_footer__container
 deepl.com##.lmt--mobile-hidden
