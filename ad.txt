@@ -1,30 +1,31 @@
 [Adblock Plus 2.0]
 ! Version: 202103170856
-! Title: CJX's EasyList Lite
+! Title: ivi
 ! Last modified: 2021/03/17
 
 ##.footer
 ###footer
 
-sehuatang.org###ft
-sehuatang.org##.show-text2
-sehuatang.org###f_pst
-sehuatang.org###hd
-sehuatang.org###toptb
-sehuatang.org##.pls, .favatar
-sehuatang.org##.pi
-sehuatang.org##.po, .hin
-sehuatang.org##.pstatus
-sehuatang.org##.sign
-sehuatang.org###p_btn
-sehuatang.org###newspecialtmp
-sehuatang.org###newspecial
-sehuatang.org##div.bm.bml.pbn:first-child
-sehuatang.org###wp > div.h10:first-child
-sehuatang.org##.tps
-sehuatang.org###postlist > table:first-child
-sehuatang.org##.modact
-sehuatang.org##.new > .xi1
+sehuatang.net###ft
+sehuatang.net##.show-text2
+sehuatang.net###f_pst
+sehuatang.net###hd
+sehuatang.net###toptb
+sehuatang.net##.pls, .favatar
+sehuatang.net##.pi
+sehuatang.net##.po, .hin
+sehuatang.net##.pstatus
+sehuatang.net##.sign
+sehuatang.net###p_btn
+sehuatang.net###newspecialtmp
+sehuatang.net###newspecial
+sehuatang.net##div.bm.bml.pbn:first-child
+sehuatang.net###wp > div.show-text.cl
+sehuatang.net###wp > div.h10:first-child
+sehuatang.net##.tps
+sehuatang.net###postlist > table:first-child
+sehuatang.net##.modact
+sehuatang.net##.new > .xi1
 
 bcy.net###l-footer
 bcy.net##.share-download, .clearfix
@@ -63,10 +64,10 @@ javlibrary.com###bottommenu
 javlibrary.com##.sidebanner1
 javlibrary.com###video_title > button.smallbutton.btnCorrection:last-child
 
-javdb7.com##.app-desktop-banner
-javdb7.com##.sub-header
-javdb7.com##.search-recent-keywords
-javdb7.com##.moj-content
+javdb.com##.app-desktop-banner
+javdb.com##.sub-header
+javdb.com##.search-recent-keywords
+javdb.com##.moj-content
 
 sexinsex.net###header
 sexinsex.net###footercontainer
@@ -110,6 +111,8 @@ deepl.com##.lmt--mobile-hidden
 deepl.com##.dl_ad_pro_container
 deepl.com##footer.dl_footer.dl_top_element--wide:nth-child(11)
 deepl.com##.dl_headerMenu__appButton
+
+bbs.nga.cn###toptopics
 
 !---APP更新
 !---taobao
